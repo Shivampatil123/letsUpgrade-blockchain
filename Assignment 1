@@ -1,0 +1,22 @@
+Blockchain day 1 assignment
+
+What is your understanding of Blockchain?
+Blockchain is a peer to peer information distribution service that break up data (in the form of an SQL ledger) into smaller pieces and encrypts the data. Any additional data added to original block of data will generate a new encryption key.
+
+What is the core problem blockchain trying to solve?
+There is an issue of transparency and authenticity of information shared over the internet and the Ethernet. Current structures of Internet gives power to the middle men of information providers and services. Block chain aims to reduce the influence of those intermediaries.
+
+
+What are the few features which blockchain will give you?
+• Data transparency
+• Integrity of data
+• Increased cybersecurity
+
+What all things does a Block Contain?
+• The time of transaction
+• A record of some recent transactions
+• A reference to the previous transaction
+• A complex math problem used to generate a Key
+
+How is the verifiability of Blockchain is been attained?
+Miners and mining computers can be used to generate a key which then verifies the information in the blockchain. In order to verify data the miners generate a hash. Any modifications in the data would generate a new encryption and thus the process can be verified.
